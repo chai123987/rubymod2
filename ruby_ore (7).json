@@ -1,0 +1,22 @@
+{
+    "item.rubymod.ruby": "红宝石",
+    "item.rubymod.ruby_sword": "红宝石剑",
+    "item.rubymod.ruby_pickaxe": "红宝石镐",
+    "item.rubymod.ruby_axe": "红宝石斧",
+    "item.rubymod.ruby_helmet": "红宝石头盔",
+    "item.rubymod.ruby_chestplate": "红宝石胸甲",
+    "item.rubymod.ruby_leggings": "红宝石护腿",
+    "item.rubymod.ruby_boots": "红宝石靴子",
+    "item.rubymod.ruby_golem_spawn_egg": "红宝石傀儡刷怪蛋",
+    "block.rubymod.ruby_block": "红宝石块",
+    "block.rubymod.ruby_ore": "红宝石矿石",
+    "block.rubymod.deepslate_ruby_ore": "深层红宝石矿石",
+    "entity.rubymod.ruby_golem": "红宝石傀儡",
+    "creativetab.rubymod.ruby_tab": "红宝石模组",
+    "item.rubymod.ruby_creeper_spawn_egg": "红宝石苦力怕刷怪蛋",
+    "entity.rubymod.ruby_creeper": "红宝石苦力怕",
+    "item.rubymod.ruby_skeleton_spawn_egg": "红宝石骷髅刷怪蛋",
+    "entity.rubymod.ruby_skeleton": "红宝石骷髅",
+    "item.rubymod.adamantine_ruby_golem_spawn_egg": "艾德曼红宝石傀儡刷怪蛋",
+    "entity.rubymod.adamantine_ruby_golem": "艾德曼红宝石傀儡"
+}
