@@ -1,6 +1,6 @@
 {
   "type": "forge:add_features",
-  "biomes": "#minecraft:is_overworld",
+  "biomes": "rubymod:ruby_biome",
   "features": "rubymod:ruby_tree",
   "step": "vegetal_decoration"
 }
