@@ -1,6 +1,0 @@
-{
-  "type": "minecraft:crafting_shapeless",
-  "category": "building",
-  "ingredients": [ { "item": "rubymod:ruby_log" } ],
-  "result": { "item": "rubymod:ruby_planks", "count": 4 }
-}
