@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R",
+    "G",
+    "S"
+  ],
+  "key": {
+    "R": { "item": "rubymod:ruby" },
+    "G": { "item": "minecraft:gold_ingot" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "item": "rubymod:aggro_staff",
+    "count": 1
+  }
+}
