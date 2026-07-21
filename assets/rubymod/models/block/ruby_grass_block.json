@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "top": "rubymod:block/ruby_grass_block_top",
-    "side": "rubymod:block/ruby_grass_block_side",
-    "bottom": "minecraft:block/dirt"
-  }
-}
